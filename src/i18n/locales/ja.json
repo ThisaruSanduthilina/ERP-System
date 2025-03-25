@@ -1,0 +1,23 @@
+{
+  "enquiries": {
+    "newEnquiry": "新規問い合わせ",
+    "detailsPlaceholder": "問い合わせ内容を入力してください...",
+    "success": "成功",
+    "successMessage": "問い合わせが正常に送信されました",
+    "error": "エラー",
+    "errorMessage": "問い合わせの送信に失敗しました",
+    "fetchError": "問い合わせの読み込みに失敗しました。後でもう一度お試しください。",
+    "noEnquiries": "問い合わせがありません",
+    "number": "問い合わせ #{{id}}",
+    "submitting": "送信中...",
+    "customerId": "顧客ID",
+    "customerIdPlaceholder": "顧客IDを入力してください",
+    "details": "詳細"
+  },
+  "common": {
+    "submit": "送信",
+    "submitting": "送信中...",
+    "next": "次へ",
+    "previous": "前へ"
+  }
+}

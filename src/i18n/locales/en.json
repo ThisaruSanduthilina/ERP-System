@@ -1,0 +1,23 @@
+{
+  "enquiries": {
+    "newEnquiry": "New Enquiry",
+    "detailsPlaceholder": "Enter enquiry details...",
+    "success": "Success",
+    "successMessage": "Enquiry submitted successfully",
+    "error": "Error",
+    "errorMessage": "Failed to submit enquiry",
+    "fetchError": "Failed to load enquiries. Please try again later.",
+    "noEnquiries": "No enquiries found",
+    "number": "Enquiry #{{id}}",
+    "submitting": "Submitting...",
+    "customerId": "Customer ID",
+    "customerIdPlaceholder": "Enter customer ID",
+    "details": "Details"
+  },
+  "common": {
+    "submit": "Submit",
+    "submitting": "Submitting...",
+    "next": "Next",
+    "previous": "Previous"
+  }
+}
